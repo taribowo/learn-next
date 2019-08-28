@@ -1,0 +1,33 @@
+{
+  "name": "learn-next",
+  "version": "1.0.0",
+  "description": "Project to learn Next.js",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taribowo/learn-next.git"
+  },
+  "keywords": [
+    "Learn",
+    "Next.js"
+  ],
+  "author": "Trilaksono Aribowo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taribowo/learn-next/issues"
+  },
+  "homepage": "https://github.com/taribowo/learn-next#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-markdown": "^4.1.0"
+  }
+}
